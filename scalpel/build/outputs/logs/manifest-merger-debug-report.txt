@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:2:5-63
+application
+ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml:7:3-17
+uses-sdk
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		ADDED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml
+		INJECTED from C:\2\3t\ImageRotation\scalpel\src\main\AndroidManifest.xml

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageRotation</string>
+    <string name="select_image">Image</string>
+    <string name="rotationX">X: %.2f</string>
+    <string name="rotationY">Y: %.2f</string>
+    <string name="rotationX_default">X: 0</string>
+    <string name="rotationY_default">Y: 0</string>
+    <string name="reset">Reset</string>
+    <string name="about">About</string>
+    <string name="license">License</string>
+</resources>
